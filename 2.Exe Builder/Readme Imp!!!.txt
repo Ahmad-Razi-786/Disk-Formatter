@@ -1,0 +1,1 @@
+Run Build_EXE.bat file. It automatically creates the Disk Formatter.exe . It is fully Offline.
